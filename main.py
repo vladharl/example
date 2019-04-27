@@ -3,4 +3,5 @@ print("test")
 
 def main(msg):
     print(msg)
+	//diff comment
 main("hello2")
